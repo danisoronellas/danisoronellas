@@ -23,4 +23,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "True"
-          LOCALE: "es"
+          LOCALE: "en"
