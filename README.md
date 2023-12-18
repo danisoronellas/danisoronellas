@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-23.7%20million%20Lineas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.7%20million%20lines%20of%20code-blue)
 
-**🐱 Mis datos de GitHub** 
+**🐱 My GitHub Data** 
 
-> 📦 1.3 MB Almacenamiento de GitHub utilizado 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 535 Contribuciones durante el año 2023
+> 🏆 538 Contributions in the Year 2023
  > 
-> 🚫 No abierto para contratación
+> 🚫 Not Opted to Hire
  > 
-> 📜 11 Repositorios Públicos 
+> 📜 11 Public Repositories 
  > 
-> 🔑 6 Repositorios Privados 
+> 🔑 6 Private Repositories 
  > 
-**Programo principalmente en PHP** 
+**I Mostly Code in PHP** 
 
 ```text
 PHP                      11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
@@ -25,10 +25,10 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
-**Cronología**
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 22:38:50 UTC
+ Last Updated on 18/12/2023 01:18:26 UTC
 <!--END_SECTION:waka-->
