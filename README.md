@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 🏆 267 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,5 +70,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 01:21:10 UTC
+ Last Updated on 02/05/2024 01:15:53 UTC
 <!--END_SECTION:waka-->
