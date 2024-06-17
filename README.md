@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2058%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -71,5 +73,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 01:27:47 UTC
+ Last Updated on 17/06/2024 01:25:34 UTC
 <!--END_SECTION:waka-->
