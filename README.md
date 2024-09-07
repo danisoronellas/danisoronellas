@@ -7,7 +7,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 494 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,15 +42,13 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-YAML                     2 hrs 4 mins        █████████████████████████   98.27 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -70,5 +68,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 01:35:08 UTC
+ Last Updated on 07/09/2024 01:26:59 UTC
 <!--END_SECTION:waka-->
