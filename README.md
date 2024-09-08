@@ -7,8 +7,6 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 494 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -68,5 +66,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 01:26:59 UTC
+ Last Updated on 08/09/2024 01:41:17 UTC
 <!--END_SECTION:waka-->
