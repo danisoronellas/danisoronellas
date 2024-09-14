@@ -42,13 +42,15 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              ███████████░░░░░░░░░░░░░░   43.68 % 
+SQL                      0 secs              █████████░░░░░░░░░░░░░░░░   35.71 % 
+sqlfluff config          0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -68,5 +70,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 01:36:18 UTC
+ Last Updated on 14/09/2024 01:34:37 UTC
 <!--END_SECTION:waka-->
