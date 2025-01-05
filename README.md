@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
@@ -42,13 +42,17 @@ Sunday                   182 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   56 mins             ██████████████████████░░░   86.33 % 
+SQL                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -68,5 +72,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 01:39:21 UTC
+ Last Updated on 05/01/2025 01:47:42 UTC
 <!--END_SECTION:waka-->
