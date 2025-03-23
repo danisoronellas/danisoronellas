@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,17 +40,17 @@ Sunday                   560 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-SQL                      3 hrs 5 mins        ██████████████████░░░░░░░   70.56 % 
-YAML                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Terraform                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-justfile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+SQL                      3 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.97 % 
+Terraform                2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
+YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+justfile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 23 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +70,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2025 01:46:41 UTC
+ Last Updated on 23/03/2025 01:54:50 UTC
 <!--END_SECTION:waka-->
