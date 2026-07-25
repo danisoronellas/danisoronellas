@@ -13,42 +13,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                208 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-🌃 Evening                364 commits         ████████████░░░░░░░░░░░░░   47.09 % 
-🌙 Night                  159 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Tuesday                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Thursday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Sunday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -66,5 +30,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:17:28 UTC
+ Last Updated on 25/07/2026 03:16:05 UTC
 <!--END_SECTION:waka-->
