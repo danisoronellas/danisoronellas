@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2032%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -15,48 +13,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-🌆 Daytime                236 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-🌃 Evening                393 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
-🌙 Night                  190 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Saturday                 63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sunday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -74,5 +30,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/danisoronellas/danisoronellas/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:57:37 UTC
+ Last Updated on 07/08/2026 02:53:18 UTC
 <!--END_SECTION:waka-->
